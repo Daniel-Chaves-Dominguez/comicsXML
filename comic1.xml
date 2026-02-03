@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <com:comic1 xml:com="http://www.ejemplocom.com/comic1">
+        <com:titulo>Solo Leveling</com:titulo>
+        <com:autor>Chugong</com:autor>
+        <com:genero>Acción/adventura</com:genero>
+        <com:lectura>Derecha a izquierda</com:lectura>
+        <com:vinhetas>200</com:vinhetas>
+        <com:editorial>Shueisha</com:editorial>
+        <com:precio moneda="EUR">19.99</com:precio>
+        <com:stock>10</com:stock>
+    </com:comic1>

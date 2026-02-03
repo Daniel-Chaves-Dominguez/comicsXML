@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <com:comic2 xml:com="http://www.ejemplocom.com/comic2">
+        <com:titulo>Jujutsu Kaisen</com:titulo>
+        <com:autor>Gege Akutami</com:autor>
+        <com:genero>Sobrenatural/fantasía oscura</com:genero>
+        <com:lectura>Derecha a izquierda</com:lectura>
+        <com:vinhetas>250</com:vinhetas>
+        <com:editorial>DYC Media</com:editorial>
+        <com:precio moneda="EUR">15.99</com:precio>
+        <com:stock>20</com:stock>
+    </com:comic2>
