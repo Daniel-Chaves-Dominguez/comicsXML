@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <com:comic1 xml:com="http://www.ejemplocom.com/comic1">
+    <com:comic1 xmlns:com="http://www.ejemplocom.com/comic1">
         <com:titulo>Solo Leveling</com:titulo>
         <com:autor>Chugong</com:autor>
         <com:genero>Acción/adventura</com:genero>

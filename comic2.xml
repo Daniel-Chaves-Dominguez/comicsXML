@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <com:comic2 xml:com="http://www.ejemplocom.com/comic2">
+    <com:comic2 xmlns:com="http://www.ejemplocom.com/comic2">
         <com:titulo>Jujutsu Kaisen</com:titulo>
         <com:autor>Gege Akutami</com:autor>
         <com:genero>Sobrenatural/fantasía oscura</com:genero>
