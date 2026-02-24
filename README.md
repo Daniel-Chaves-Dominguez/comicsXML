@@ -2,6 +2,9 @@
 
 MangaWorld Catalog is an interactive web application created for manga enthusiasts who want to explore and discover popular manga series. Each entry provides complete details, including the author, genre, number of volumes, publisher, price, stock availability, reading direction, page count, and a summary. Users can hover over the manga covers to instantly reveal all the information, making it easy to choose their next favorite story. The project also includes XML data files for structured access to each manga’s details.
 
+<img width="1886" height="913" alt="Captura de pantalla 2026-02-24 122537" src="https://github.com/user-attachments/assets/635c7ee2-cb3b-468c-a9f8-c0b626704422" />
+
+
 🔹 Live Preview
 
 Hovering over each manga cover reveals detailed information, and users can explore XML data for deeper insights. The catalog currently features titles such as Jujutsu Kaisen by Gege Akutami and Solo Leveling by Chugong, with summaries that allow readers to quickly grasp the storyline and themes before diving in.
